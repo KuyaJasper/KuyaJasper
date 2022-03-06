@@ -1,7 +1,6 @@
 <!-- # Hi there! 👋  My Name is Jasper -->
 
 ![Banner](/Assets/Banner.png)
-![Banner]()
 
 
 # Technical Experience:
@@ -68,7 +67,7 @@
 
 [![Cliff](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 
-<a href="/Assets/Technical Resume 22.pdf" download="Technical Resume 22.pdf">Resume</a>
+### <a href="https://docs.google.com/document/d/1RABlXl07-of8ScHao3MVXv5AH3COzHFLGd18hXKoOd4/edit?usp=sharing">Resume</a>
 
 
 
