@@ -1,6 +1,7 @@
 <!-- # Hi there! 👋  My Name is Jasper -->
 
-![Banner](./Banner.png)
+![Banner](/Assets/Banner.png)
+![Banner]()
 
 
 # Technical Experience:
@@ -66,6 +67,8 @@
 ### Clifford Morin | My friend who helped me with this design
 
 [![Cliff](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+
+<a href="/Assets/Technical Resume 22.pdf" download="Technical Resume 22.pdf">Resume</a>
 
 
 
