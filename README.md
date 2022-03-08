@@ -63,11 +63,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-abarquez/)
 
-## <a href="https://docs.google.com/document/d/1RABlXl07-of8ScHao3MVXv5AH3COzHFLGd18hXKoOd4/edit?usp=sharing"> Click Here For Resume</a>
+## <a href="https://docs.google.com/document/d/1RABlXl07-of8ScHao3MVXv5AH3COzHFLGd18hXKoOd4/edit?usp=sharing"> Click Here</a> For My Resume
 
-### Clifford Morin | My friend who helped me with this design
+## <a href="https://bit.ly/3KvjmYD"> Click Here</a> For My Portfolio
 
-[![Cliff](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+
+
+###
+
+[Clifford Morin](https://github.com/CliffordMorin) | My friend who helped me with this design
 
 
 
