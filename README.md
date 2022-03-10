@@ -61,12 +61,11 @@
 
 ## Other Links
 
+[![Portfolio](https://img.shields.io/badge/-Click_Here_For_Portfolio-DC143C?style=for-the-badge)](https://bit.ly/3KvjmYD)
+
+[![Resume](https://img.shields.io/badge/-Click_Here_For_Resume-008000?style=for-the-badge)](https://docs.google.com/document/d/1RABlXl07-of8ScHao3MVXv5AH3COzHFLGd18hXKoOd4/edit?usp=sharing)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper-abarquez/)
-
-## <a href="https://docs.google.com/document/d/1RABlXl07-of8ScHao3MVXv5AH3COzHFLGd18hXKoOd4/edit?usp=sharing"> Click Here</a> For My Resume
-
-## <a href="https://bit.ly/3KvjmYD"> Click Here</a> For My Portfolio
-
 
 
 ###
